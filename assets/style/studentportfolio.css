@@ -2,7 +2,9 @@
 	
 body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	background-color: #DAA520;
+	/*background-color: #666;*/
+    background-color: rgb(218,165,32);
+
 	}
 
 #container {
